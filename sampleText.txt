@@ -1,0 +1,1 @@
+Hi! This document contains sample text we can use to demonstrate file handling techniques in Python! Not much else to see here!
